@@ -1,0 +1,10 @@
+# save_document
+saves the document and then closes it
+VBA script
+
+' Save the document
+    ActiveWorkbook.Save
+    
+    ' Close the document
+    ActiveWorkbook.Close
+
